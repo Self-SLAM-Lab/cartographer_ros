@@ -25,18 +25,18 @@ TODO List
 
 참고 사이트
 =======
-* `Google Proto Buffers`
-* `Google Logging Library`
-* `Google Commandline Flags Library`
-* `Abseil CPP Library`
+* `Google Proto Buffers`_
+* `Google Logging Library`_
+* `Google Commandline Flags Library`_
+* `Abseil CPP Library`_
 
-* `C++ Standard Memery library`
+* `C++ Standard Memery library`_
 
-* `ROS CPP Intialization and Shutdown`
-* `Writing TF2 Listener`
+* `ROS CPP Intialization and Shutdown`_
+* `Writing TF2 Listener`_
 
-* `Anonymous namespace`
-* `CMake`
+* `Anonymous namespace`_
+* `CMake`_
 
 .. _Google Proto Buffers: https://developers.google.com/protocol-buffers/docs/cpptutorial
 .. _Google Logging Library: https://github.com/google/glog
