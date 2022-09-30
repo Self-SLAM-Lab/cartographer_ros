@@ -18,6 +18,11 @@ Cartographer ROS Integration
 
 |build| |docs| |license|
 
+TODO List
+=======
+
+추가적인 실제 Sensor Data를 받아서 처리되는 부분 찾기
+
 Purpose
 =======
 
