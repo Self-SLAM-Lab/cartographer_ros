@@ -23,6 +23,34 @@ TODO List
 
 추가적인 실제 Sensor Data를 받아서 처리되는 부분 찾기
 
+참고 사이트
+=======
+Library
+* `Google Proto Buffers`
+* `Google Logging Library`
+* `Google Commandline Flags Library`
+* `Abseil CPP Library`
+
+* `C++ Standard Memery library`
+
+ROS
+* `ROS CPP Intialization and Shutdown`
+* `Writing TF2 Listener`
+
+C++
+* `Anonymous namespace`
+* `CMake`
+
+.. _Google Proto Buffers: https://developers.google.com/protocol-buffers/docs/cpptutorial
+.. _Google Logging Library: https://github.com/google/glog
+.. _Google Commandline Flags Library: https://gflags.github.io/gflags/
+.. _ROS CPP Intialization and Shutdown: http://wiki.ros.org/roscpp/Overview/Initialization%20and%20Shutdown
+.. _Writing TF2 Listener: http://wiki.ros.org/tf2/Tutorials/Writing%20a%20tf2%20listener%20%28C%2B%2B%29
+.. _Abseil CPP Library: https://github.com/abseil/abseil-cpp
+.. _C++ Standard Memory library: https://learn.microsoft.com/ko-kr/cpp/standard-library/memory?view=msvc-170
+.. _Anonymous namespace: https://jogamja.tistory.com/121
+.. _CMake: https://cmake.org/cmake/help/latest/index.html
+
 Purpose
 =======
 
