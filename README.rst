@@ -25,7 +25,6 @@ TODO List
 
 참고 사이트
 =======
-Library
 * `Google Proto Buffers`
 * `Google Logging Library`
 * `Google Commandline Flags Library`
@@ -33,11 +32,9 @@ Library
 
 * `C++ Standard Memery library`
 
-ROS
 * `ROS CPP Intialization and Shutdown`
 * `Writing TF2 Listener`
 
-C++
 * `Anonymous namespace`
 * `CMake`
 
