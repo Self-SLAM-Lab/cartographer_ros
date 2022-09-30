@@ -39,7 +39,7 @@ ROS
 
 C++
 ~~~~~~~~~
-* `C++ Standard Memery library`_
+* `C++ Standard Memory library`_
 * `Anonymous namespace`_
 * `CMake`_
 
