@@ -421,6 +421,7 @@ void Node::LaunchSubscribers(const TrajectoryOptions& options,
              this),
          topic});
   }
+  // HandleLaserScanMessage가 아마 모아서 처리하는 곳이 아닐까 싶음
   for (const std::string& topic : ComputeRepeatedTopicNames(
            kMultiEchoLaserScanTopic, options.num_multi_echo_laser_scans)) {
     subscribers_[trajectory_id].push_back(
